@@ -10,3 +10,7 @@ scipy==1.10.1
 kagglehub
 nltk
 gunicorn
+
+setuptools
+
+wheel
