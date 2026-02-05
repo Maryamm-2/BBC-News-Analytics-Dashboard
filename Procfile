@@ -1,0 +1,1 @@
+web: gunicorn bbc_news_analytics_dashboard:server
