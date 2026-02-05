@@ -1,4 +1,5 @@
 # BBC News Analytics Dashboard
+[![Render](https://img.shields.io/badge/Render-Live%20Demo-46e3b7?style=for-the-badge&logo=render&logoColor=white)](https://bbc-news-analytics.onrender.com)
 
 ## 🎯 Project Goal
 To develop an interactive analytics platform that processes 2,200+ BBC news articles, revealing hidden linguistic patterns and semantic relationships through advanced Natural Language Processing (NLP) and dynamic visualization.
